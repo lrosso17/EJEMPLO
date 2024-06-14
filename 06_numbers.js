@@ -38,4 +38,3 @@ console.log(parseInt(c.toFixed(1)));
 console.log(parseFloat(c.toFixed(1)));
 console.log(c.toFixed(5));
 console.log(parseFloat(c.toFixed(5)));
-Session 8 - JavaScript Basico
